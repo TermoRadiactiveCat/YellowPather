@@ -1,13 +1,13 @@
-# README.md
+﻿# README.md
 
-# Данный проект больше не поддерживается в силу поддержки новой Lite версии https://github.com/YarosIshkov2005/YellowPather-Lite.git.
+# Данный проект больше не поддерживается в силу поддержки Holmium File Explorer https://github.com/TermoRadiactiveCat/Holmium-File-Explorer.git.
 
 # RU 🇷🇺:
 ## YellowPather версия 1.0.5 "Yellow Brick Road"
 
-Дорогие друзья! Сегодня я хочу представить вам свой первый по-настоящему сложный проект: файловый менеджер (проводник), который я написал всего за 2-3 месяца, используя простые библиотеки, такие как Tkinter, Pathlib, Platform и др., а также собственную систему защиты YPACMv1 (YellowPather Access Control Manager версия 1), ранее известную как MDEFS. Репозиторий проекта доступен по ссылке: https://github.com/YarosIshkov2005/YellowPather.git
+Дорогие друзья! Сегодня я хочу представить вам свой первый по-настоящему сложный проект: файловый менеджер (проводник), который я написал всего за 2-3 месяца, используя простые библиотеки, такие как Tkinter, Pathlib, Platform и др., а также собственную систему защиты YPACMv1 (YellowPather Access Control Manager версия 1), ранее известную как MDEFS. Репозиторий проекта доступен по ссылке: https://github.com/TermoRadiactiveCat/YellowPather.git Изменено: YellowPather официально не поддерживается и не рекомендуется к использованию.
 
-📑 Это проект с открытым исходным кодом (Open Source), поэтому каждый может внести свои изменения, улучшения, исправления и т.д. Ярослав Ишков 2026 ❤️
+📑 Это проект с открытым исходным кодом (Open Source), поэтому каждый может внести свои изменения, улучшения, исправления и т.д. TermoRadiactiveCat 2026 ❤️
 
 🔮 Что нового в версии 1.0.5:
 > архитектура: улучшена навигация при переходе (корректно сохраняется история при переходах), исправлена проблема со вставкой имени объекта, и т.д.
@@ -163,11 +163,11 @@ P.S.: При желании вы также можете добавить Yellow
 # EN 🇬🇧:
 ## YellowPather version 1.0.5 "The Yellow Brick Road"
 
-# This project is not supported anymore. New version: https://github.com/YarosIshkov2005/YellowPather-Lite.git
+# This project is not supported anymore. New version: https://github.com/TermoRadiactiveCat/Holmium-File-Explorer.git
 
-Dear friends! Today I want to present my first truly complex project: a file manager (explorer) that I wrote in just 2-3 months, using simple libraries like Tkinter, Pathlib, Platform, and others, as well as my own protection system YPACMv1 (YellowPather Access Control Manager version 1), formerly known as MDEFS. The project repository is available at the link: https://github.com/YarosIshkov2005/YellowPather.git
+Dear friends! Today I want to present my first truly complex project: a file manager (explorer) that I wrote in just 2-3 months, using simple libraries like Tkinter, Pathlib, Platform, and others, as well as my own protection system YPACMv1 (YellowPather Access Control Manager version 1), formerly known as MDEFS. The project repository is available at the link: https://github.com/TermoRadiactiveCat/YellowPather.git
 
-📑 This is an Open Source project, so everyone can make their own changes, improvements, fixes, etc. Yaroslav Ishkov 2026 ❤️
+📑 This is an Open Source project, so everyone can make their own changes, improvements, fixes, etc. TermoRadiactiveCat 2026 ❤️
 
 🔮 What's new in version 1.0.5:
 > architecture: improved navigation when switching, fixed an issue with inserting an object name, etc.
