@@ -1,6 +1,6 @@
 ﻿# README.md
 
-# Данный проект больше не поддерживается в силу поддержки Holmium File Explorer https://github.com/TermoRadiactiveCat/Holmium-File-Explorer.git.
+# Данный проект больше не поддерживается в силу поддержки Holmium File Explorer https://github.com/TermoRadiactiveCat/Holmium-File-Explorer.git. Поддержка .exe как самостоятельное приложение отсутствует.
 
 # RU 🇷🇺:
 ## YellowPather версия 1.0.5 "Yellow Brick Road"
@@ -163,7 +163,7 @@ P.S.: При желании вы также можете добавить Yellow
 # EN 🇬🇧:
 ## YellowPather version 1.0.5 "The Yellow Brick Road"
 
-# This project is not supported anymore. New version: https://github.com/TermoRadiactiveCat/Holmium-File-Explorer.git
+# This project is not supported anymore. New version: https://github.com/TermoRadiactiveCat/Holmium-File-Explorer.git. .exe format as application not supported.
 
 Dear friends! Today I want to present my first truly complex project: a file manager (explorer) that I wrote in just 2-3 months, using simple libraries like Tkinter, Pathlib, Platform, and others, as well as my own protection system YPACMv1 (YellowPather Access Control Manager version 1), formerly known as MDEFS. The project repository is available at the link: https://github.com/TermoRadiactiveCat/YellowPather.git
 
